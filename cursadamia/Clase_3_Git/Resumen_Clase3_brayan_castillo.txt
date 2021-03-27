@@ -1,0 +1,3 @@
+Nos adentramos un poco mas en la herrmaienta, viendo repositorios locales,
+como añadir y borrar archivos, editarlos y mantenerlos actualizados, 
+mediante commits, configurar nuestro usuario local para poder comunicarnos.
