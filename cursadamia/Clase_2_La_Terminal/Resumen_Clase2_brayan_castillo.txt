@@ -1,3 +1,0 @@
-En esta clase, vimos una nueva herramienta una muy importante, la terminal, vimos los diferentes tipos de terminales,
-sus funciones, y sus ventajas y desventajas, vimos los diferentes comandos basicos, para empezar a navegar,
-en este nuevo mundo.
