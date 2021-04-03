@@ -1,0 +1,20 @@
+    ¿Quién inventó el sistema de control de versión Git y por qué?
+
+            Linus Torvalds creaba la primera revisión de git, un sistema de control de versiones.
+            Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT. 
+
+
+    ¿A quién pertenece actualmente Github y por qué?
+
+            Microsoft ha comprado GitHub
+            segun Microsoft "refuerza nuestro compromiso con la libertad, apertura e innovación para los desarrolladores"
+
+
+    ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+
+            GitHub se puede utilizar desde la consola de la computaora, aunque en Windows debemos descargarnos GitBash,
+             y la terminal  puede abrirse desde Visual Studio Code, PHP, Python, entre otros lenguajes de programación.
+              E incluso se puede trabajar con github desde Github Desktop o GitKraken, que tienen una interfaz gráfica de usuario,
+               la cual es de uso más amigable para los usuarios.
+
